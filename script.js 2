@@ -1,0 +1,7 @@
+Function mostrarMensagem(){
+  const mensagem =
+document.getElementById("mensagem");
+  mensagem.textContent = "bem-vinda,
+  Hilma! continue explorando o mundo
+  da tecnologia";
+}
